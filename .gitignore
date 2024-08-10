@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+.ropeproject/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Test files
+tests/
+test_*.py
+
+# IDE files
+.idea/
+*.iml
+
+# Miscellaneous
+*.swp
+*~
